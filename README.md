@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2025 - To: 14 February 2026
+From: 14 September 2025 - To: 15 February 2026
 
-Total Time: 60 hrs 3 mins
+Total Time: 60 hrs 12 mins
 
-Lua         39 hrs 58 mins  ████████████████▓░░░░░░░░   66.49 %
-HTML        12 hrs 51 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-Python      5 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Lua         40 hrs 7 mins   ████████████████▓░░░░░░░░   66.57 %
+HTML        12 hrs 51 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
+Python      5 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 CSS         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 JSON        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 Markdown    20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
